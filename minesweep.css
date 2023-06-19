@@ -1,5 +1,14 @@
 /* TABLE */
 
+#minesweeper{
+  margin: auto;
+  width: 50%;
+}
+
+#play{
+  margin: auto;
+}
+
 p{
   margin-top: 0px;
   margin-bottom: 0px;
@@ -18,8 +27,8 @@ p{
   margin: auto;
 }
 
-.head{
-  border-bottom: 5px;
+.preferences{
+  margin: auto;
 }
 
 .cell{
